@@ -131,20 +131,20 @@
                                                          
                                                 </div>
                                             <div class="form-group row">
-                                                    <label class="col-md-6 control-label">Train No./Name*:</label>
-                                                    <div class="col-md-6">
+                                                    <label class="col-md-4 control-label">Train No./Name*:</label>
+                                                    <div class="col-md-8">
                                                       <input class="form-control" type="text" placeholder="Train No./Name">
                                                     </div>
                                             </div>
                                             <div class="form-group row">
-                                              <label class="col-md-6 control-label" for="pnr">From Station:</label>
-                                              <div class="col-md-6">          
+                                              <label class="col-md-4 control-label" for="pnr">From Station:</label>
+                                              <div class="col-md-8">          
                                                 <input type="text" class="form-control" id="pnr" placeholder="From Station">
                                               </div>
                                             </div>
                                             <div class="form-group row">
-                                                <label class="col-md-6 control-label" for="pnr">To Station:</label>
-                                                <div class="col-md-6">          
+                                                <label class="col-md-4 control-label" for="pnr">To Station:</label>
+                                                <div class="col-md-8">          
                                                   <input type="text" class="form-control" id="pnr" placeholder="To Station">
                                                 </div>
                                               </div>
